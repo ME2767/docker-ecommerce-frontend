@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# gfe" 
 "# gfe" 
 "# docker-backend-s117" 
+"# docker-ecommerce-frontend" 
