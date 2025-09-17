@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 "# docker-backend-s117" 
 "# docker-ecommerce-frontend" 
 "# docker-ecommerce-frontend" 
+"# docker-ecommerce-frontend" 
